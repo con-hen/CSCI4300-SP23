@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.top {
+    background-color: aliceblue;
+    padding: 200px;
+}
+.middle {
+    background-color: goldenrod;
+    padding: 200px;
+}
+.bottom {
+
+}
