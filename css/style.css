@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.top {
+    background-color: aliceblue;
+    position: relative;
+    padding: 200px;
+    font-family: 'Roboto', sans-serif;
+}
+.middle {
+
+}
+.bottom {
+
+}
